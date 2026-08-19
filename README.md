@@ -1,4 +1,5 @@
 # Redis Rogue PWN
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/fc3fd695-141b-44bf-ae49-d1efa383c798" />
 
 Enhanced Redis rogue server exploit for CTF and authorized penetration testing engagements.
 
