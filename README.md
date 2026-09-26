@@ -59,7 +59,7 @@ The loaded module registers two commands:
 **Requirements:** Python 3.6+ (stdlib only, no pip dependencies).
 
 ```bash
-git clone https://github.com/YOURUSER/redis-rogue-pwn.git
+git clone https://github.com/TheHuskyHacker/Redis_Pwn.git
 cd redis-rogue-pwn
 chmod +x redis-rogue-pwn.py
 ```
