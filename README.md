@@ -60,7 +60,7 @@ The loaded module registers two commands:
 
 ```bash
 git clone https://github.com/TheHuskyHacker/Redis_Pwn
-cd redis-rogue-pwn
+cd Redis_Pwn
 chmod +x redis-rogue-pwn.py
 ```
 
